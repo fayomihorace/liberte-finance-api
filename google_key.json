@@ -1,0 +1,12 @@
+{
+    "web":{
+        "client_id":"926038372302-42pnp8ng1s0eo582v6ifoloejjfeqrkp.apps.googleusercontent.com",
+        "project_id":"persofinance-282309",
+        "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+        "token_uri":"https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret":"cCdKY5i4UpozInU9EvLUd5RI",
+        "redirect_uris":["http://localhost:5000/api/auth/google/callback"],
+        "javascript_origins":["http://localhost:5000"]
+    }
+}
